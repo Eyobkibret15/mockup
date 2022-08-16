@@ -1,0 +1,34 @@
+{
+    "Pulse": false,
+    "Wire Bonding Top": {
+        "Part VBC3": {
+            "t_start": "08/12/2022, 12:17:28",
+            "t_end": "08/12/2022, 12:17:32"
+        }
+    },
+    "Wire Bonding Bottom": false,
+    "Wire Routing Top": {
+        "Part VBC3": {
+            "t_start": "08/12/2022, 12:13:47",
+            "t_end": "08/12/2022, 12:13:52"
+        }
+    },
+    "CP Gluing Top": false,
+    "Wire Routing Bottom": false,
+    "CP Gluing Bottom": false,
+    "Structural Gluing Bottom": false,
+    "Structural Gluing Top": false,
+    "Main Assembly": {
+        "Part VBC3": {
+            "t_start": "08/12/2022, 12:12:55",
+            "t_end": "08/12/2022, 12:13:00"
+        }
+    },
+    "Leak Test": false,
+    "MSub Assembly": {
+        "Part MPE-M": {
+            "t_start": "08/11/2022, 12:13:54",
+            "t_end": "08/11/2022, 12:14:00"
+        }
+    }
+}
